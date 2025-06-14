@@ -1,0 +1,7 @@
+# This file specifies the funding options for the project, allowing users to support the project financially.
+github:
+  sponsors:
+    - github: your-github-username
+    - patreon: your-patreon-username
+    - open_collective: your-open-collective-username
+    - custom: your-custom-funding-url
